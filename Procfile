@@ -1,1 +1,1 @@
-worker: python parsingPost.py
+worker: python Dashboard_report_form_1st_design_for_server.py
