@@ -1,1 +1,1 @@
-worker: python Dashboard_report_form_1st_design_for_server.py
+web: gunicorn app:server
