@@ -6,3 +6,4 @@ dash-html-components==2.0.0
 dash-leaflet==0.1.23
 folium==0.12.1.post1
 plotly==5.9.0
+gunicorn==20.1.0
