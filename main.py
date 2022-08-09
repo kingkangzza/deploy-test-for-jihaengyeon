@@ -16,13 +16,11 @@ import dash
 import dash_bootstrap_components as dbc
 import numpy as np
 import plotly.graph_objs as go
-from dash import Input, Output, dcc, html
 import json
 import os
 import folium
 import pandas as pd
 import plotly.express as px
-import folium
 # import plotly.offline as pyo
 
 # 오프라인 모드로 변경...
