@@ -23,11 +23,10 @@ import folium
 import pandas as pd
 import plotly.express as px
 import folium
-import plotly.offline as pyo
-import dash_leaflet as dl
+# import plotly.offline as pyo
 
 # 오프라인 모드로 변경...
-pyo.init_notebook_mode()
+# pyo.init_notebook_mode()
 
 template='plotly_white'
 
